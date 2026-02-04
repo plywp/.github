@@ -1,3 +1,4 @@
+![thumbnail](./thumbnail.png)
 # PlyWP
 
 PlyWP is an open-source WordPress **automation and management platform** built for developers, infrastructure engineers, and hosting systems that need scalable, programmable WordPress operations.
